@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E9C46A;
+    color: #264653;
+}
+header {
+    background-color: #2A9D8F;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+main {
+    padding: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #264653;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
